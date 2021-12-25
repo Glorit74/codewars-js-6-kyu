@@ -1,0 +1,1 @@
+# codewars-js-6-kyu
